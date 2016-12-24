@@ -1,0 +1,8 @@
+/* This is the solution to the Self Join practices of Sqlzoo */
+
+
+/* 1.How many stops are in the database. */
+SELECT COUNT(id)
+FROM stops
+
+
